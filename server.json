@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.anthonypaddison/godot-mcp",
+  "title": "Godot MCP",
+  "description": "A hardened, least-privilege MCP server for Godot 4 development, runtime inspection and UI testing",
+  "repository": {
+    "url": "https://github.com/anthonypaddison/godot-mcp",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "websiteUrl": "https://github.com/anthonypaddison/godot-mcp"
+}
